@@ -1,8 +1,7 @@
 ## Ejemplo de una aplicacion de Raspberry
 
 ## Aplicaciones
-* [classpath-bind](classpath-bind/) - reads configuration from a **classpath files** and outputs values
-  to the stdout.
+* Primmero preparamos el entorno del rapberry
 
 ## Usage
 * Build all apps
