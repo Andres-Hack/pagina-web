@@ -1,4 +1,4 @@
-## Ejemplo de una aplicacion de Raspberry
+## Ejemplo de una aplicacion de Raspberry Pi2
 
 ## Aplicaciones
 * Primmero preparamos el entorno del rapberry
@@ -10,11 +10,11 @@
 
 ```
 > npm install
-> npm run start
+> npm run start 
 ```
 
-* Run app (in this example: "git-bind") - **read README.md file in the corresponding app root directory** for more information.
+* Arrancar app (in this example: "git-bind") - **read README.md file in the corresponding app root directory** for more information.
 
 ```
-> java -jar git-bind/build/libs/git-bind-1.0.0-SNAPSHOT.jar
+> npm start
 ```
